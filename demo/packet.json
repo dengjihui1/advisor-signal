@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1",
+  "applicant": {
+    "name": "Synthetic Applicant",
+    "profile_sources": ["https://portfolio.invalid/synthetic-applicant"],
+    "facts": ["[PROFILE FACT] built a reproducible forecasting baseline"]
+  },
+  "supervisor": {
+    "name": "Dr. Example Researcher",
+    "institution": "Example University",
+    "sources": ["https://research.example.edu/lab"]
+  },
+  "fit": {
+    "score": 78,
+    "confidence": "medium",
+    "breakdown": {"problem_topic": 24, "method": 25, "recent_papers": 16, "feasibility": 8, "practical": 5},
+    "strengths": ["[INFERENCE] shared interest in uncertainty-aware forecasting"],
+    "gaps": ["[UNKNOWN] current doctoral intake is not stated on the official page"]
+  },
+  "papers": [
+    {"title": "Uncertainty-aware forecasting with structured dynamics", "year": 2025, "url": "https://doi.org/10.0000/example.2025.001", "reading_depth": "abstract"}
+  ],
+  "deliverables": {
+    "email": "Subject: Prospective PhD student — uncertainty-aware forecasting\n\nDear Dr. Example Researcher,\n\nI am writing to ask whether you may be considering PhD students working on uncertainty-aware forecasting. My proposal explores a bounded extension of probabilistic forecasting, and my prior baseline work gives me a concrete starting point. Your 2025 paper on structured dynamics raises a question I would be interested in discussing: whether the same evaluation design can distinguish calibration from representation quality. I would be happy to adapt the direction around your group's active questions and learn under your supervision. Would you be open to a short discussion about potential doctoral opportunities?\n\nBest regards,\nSynthetic Applicant",
+    "cv_emphasis": "Foreground reproducibility and probabilistic modelling; do not claim prior work on the cited paper's method.",
+    "rp_alignment": "Keep the proposal's uncertainty question; adapt the evaluation design to the group's demonstrated methods."
+  },
+  "unknowns": ["Current funding and intake status require direct confirmation from the group."]
+}
