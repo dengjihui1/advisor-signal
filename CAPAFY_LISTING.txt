@@ -1,0 +1,11 @@
+Name: AdvisorSignal
+One-line pitch: Turn your CV and research proposal into a defensible supervisor shortlist and a research-specific inquiry email.
+
+Description:
+AdvisorSignal is an evidence-grounded PhD supervisor matching and outreach workflow. It extracts an applicant's real methods and research questions, verifies supervisor information against official/primary sources, ranks candidates with a visible fit breakdown and confidence, selects at most two relevant papers, and drafts target-specific CV emphasis, RP alignment, and a complete inquiry email. It keeps unknowns visible, never invents vacancies or papers, and never sends email or uploads the user's private application materials.
+
+Suggested prompt:
+Use AdvisorSignal with my local CV and research proposal. First build an evidence ledger and rank potential supervisors with source links. After I choose one, select no more than two relevant papers, align my CV and proposal honestly, and draft a complete inquiry email with a specific research conversation and a low-pressure PhD opportunity question.
+
+Positioning:
+"The email is the last step, not the product." Show the before/after: a generic proposal becomes a supervisor card with two sources, one concrete paper connection, an explicit gap, and a reviewable email. The strongest demo makes an unknown recruitment status visible instead of pretending certainty.
