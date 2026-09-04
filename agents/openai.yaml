@@ -1,0 +1,6 @@
+interface:
+  display_name: "AdvisorSignal"
+  short_description: "Match PhD supervisors with evidence-backed outreach"
+  brand_color: "#7C3AED"
+  icon_small: "./assets/advisorsignal-icon.png"
+  default_prompt: "Use $advisor-signal to turn my CV and research proposal into an evidence-backed supervisor shortlist, paper-fit map, tailored materials, and a reviewable inquiry email."
