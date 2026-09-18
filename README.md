@@ -1,5 +1,7 @@
 # AdvisorSignal
 
+![Jihui](assets/brand/jihui-wordmark.png)
+
 > A good PhD email is not “Dear Professor, I like your work.” It is a small, traceable research conversation.
 
 AdvisorSignal turns a CV and research proposal into an evidence-grounded supervisor outreach packet:
